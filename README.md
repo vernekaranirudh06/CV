@@ -5,8 +5,8 @@ Steps to run this html file
 
 ## Screenshots
 
-![Screenshot 1](DemoScreenShot/Screenshot 2026-01-28 222049.png)
-![Screenshot 2](DemoScreenShot/Screenshot 2026-01-28 222421.png)
+![Screenshot 1](DemoScreenShot/ss1.png)
+![Screenshot 2](DemoScreenShot/ss2.png)
 
 
 
