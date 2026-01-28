@@ -1,0 +1,6 @@
+Steps to run this html file 
+1. Open vs code or any editor.
+2. Create an html file and paste the code.
+3.Run with live Server.
+
+
